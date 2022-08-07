@@ -30,7 +30,7 @@ Phigros-EX(简称PEX)是一个基于修改Phigros模拟器的项目，在Phigros
 
 #### 修复
 
-- 修复了更改start-time后无法跳转到正确时间的bug
+- 修复bug
 
 ### [0.0.3] - 2022.7.22
 
