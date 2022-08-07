@@ -1,6 +1,10 @@
 # [Phigros-EX](http://phigros.vip/sim-phi/sim-phi.html)
 
+(由于引入了账号系统，第一次使用时需注册账号，注册方法见登录界面)
+
 ## 简介
+
+Phigros-EX(简称PEX)是一个基于修改Phigros模拟器的项目，在Phigros模拟器的基础上，增加与修改了一些功能
 
 用js/canvas还原Phigros游戏画面，属于个人兴趣项目，仅用于学习和测试；
 
@@ -26,7 +30,7 @@
 
 #### 修复
 
-- 修复bug
+- 修复了更改start-time后无法跳转到正确时间的bug
 
 ### [0.0.3] - 2022.7.22
 
