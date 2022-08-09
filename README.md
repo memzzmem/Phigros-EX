@@ -45,5 +45,3 @@ Phigros-EX(简称PEX)是一个基于修改Phigros模拟器的项目，在Phigros
 - 修复了可能无法对游玩成绩进行正确储存的bug
 
 ### [0.0.4] - 2022.8.9 - 1.4.19
-
-- 保留功能 hyperMode
