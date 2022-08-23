@@ -65,3 +65,5 @@ Phigros-EX(简称PEX)是一个基于修改Phigros模拟器的项目，在Phigros
 - 修复了重置设置会将判定范围设置成一个错误的数值的bug
 
 - 修改start-time后将不会计算分数
+
+- 移除favicon.ico
